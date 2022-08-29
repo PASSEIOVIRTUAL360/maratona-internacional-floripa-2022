@@ -1,0 +1,48 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_97455FE4_9961_A489_41D8_21D29069E413.source = https://api.whatsapp.com/send/?phone=5548984325921
+LinkBehaviour_94CEA6E1_9962_E48B_41A4_41A65B9D65E0.source = https://api.whatsapp.com/send/?phone=5548984325921
+LinkBehaviour_133573C6_C521_A23A_41E7_3F4B97C676EE.source = https://www.facebook.com/LikeStartDoing
+LinkBehaviour_53C807DE_5B3E_CB2D_41C8_95EDF9FA2FD6.source = https://www.facebook.com/LikeStartDoing
+LinkBehaviour_53C827DE_5B3E_CB2D_41C9_6DA38C777CFB.source = https://www.instagram.com/likestartdoing/
+LinkBehaviour_9D62E150_BB35_E9D0_41E3_B6D3E966219D.source = https://www.instagram.com/likestartdoing/
+LinkBehaviour_2078C997_C52E_AE5B_41E3_D171E362FCF5.source = https://www.startdoing.com.br/
+LinkBehaviour_363F064C_C521_A2CE_41B6_71367E0A1E62.source = https://www.startdoing.com.br/
+LinkBehaviour_6F772275_70C9_09AC_41DA_FC1732F8B936.source = https://www.youtube.com/channel/UCyO8alWpg7e5juZpCkZpDCg
+LinkBehaviour_667A7A6D_70C9_19BC_41D8_F139152F700E.source = https://www.youtube.com/channel/UCyO8alWpg7e5juZpCkZpDCg/videos
+
+## Media
+
+### 360 Video
+
+### Title
+media_F638A093_E7DD_CB39_41DC_7AF878710FC2.label = 00001-1
+media_EC64EFE1_E7C6_D516_41D0_D40555F82C5C.label = 002
+
+### Video
+videores_F468A3C9_E7CD_4D16_41E2_D5910AD676D7.posterURL = media/media_EC64EFE1_E7C6_D516_41D0_D40555F82C5C_poster_pt.jpg
+videores_F468A3C9_E7CD_4D16_41E2_D5910AD676D7.url = media/media_EC64EFE1_E7C6_D516_41D0_D40555F82C5C_pt.mp4
+videores_F46EC455_E7CD_4B39_41DF_8326C55E237C.posterURL = media/media_F638A093_E7DD_CB39_41DC_7AF878710FC2_poster_pt.jpg
+videores_F46EC455_E7CD_4B39_41DF_8326C55E237C.url = media/media_F638A093_E7DD_CB39_41DC_7AF878710FC2_pt.mp4
+
+## Skin
+
+### Image
+Image_1646ACB0_C561_A655_41E0_86B632FD3D0A.url = skin/Image_1646ACB0_C561_A655_41E0_86B632FD3D0A_pt.gif
+Image_24C775DA_04F6_37A1_4180_D80ED41939F9_mobile.url = skin/Image_24C775DA_04F6_37A1_4180_D80ED41939F9_mobile_pt.png
+Image_24C775DA_04F6_37A1_4180_D80ED41939F9.url = skin/Image_24C775DA_04F6_37A1_4180_D80ED41939F9_pt.png
+Image_4B796E6E_054E_F561_4174_FDFB6E8DF664_mobile.url = skin/Image_4B796E6E_054E_F561_4174_FDFB6E8DF664_mobile_pt.png
+Image_4B796E6E_054E_F561_4174_FDFB6E8DF664.url = skin/Image_4B796E6E_054E_F561_4174_FDFB6E8DF664_pt.png
+Image_74B2519C_057D_EFA1_4189_30B4540E35EA_mobile.url = skin/Image_74B2519C_057D_EFA1_4189_30B4540E35EA_mobile_pt.png
+Image_74B2519C_057D_EFA1_4189_30B4540E35EA.url = skin/Image_74B2519C_057D_EFA1_4189_30B4540E35EA_pt.png
+Image_D5B0B51A_C521_A991_41E8_7842D66BA7E9.url = skin/Image_D5B0B51A_C521_A991_41E8_7842D66BA7E9_pt.gif
+
+## Tour
+
+### Description
+
+### Title
+tour.name = MARATONA FLORIPA
